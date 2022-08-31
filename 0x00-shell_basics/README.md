@@ -6,3 +6,4 @@ The fifth script displays current contents including hidden files.
 The sixth script display directory contents with long format, user and group ID numerically with all hidden files
 The seventh script creates a named directory in a tmp directory.
 The eighth script moves the file betty from one directory to another
+The nighth script deletes the file betty
