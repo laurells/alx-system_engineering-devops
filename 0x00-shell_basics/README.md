@@ -11,3 +11,4 @@ The tenth script deletes a directory
 The eleventh script changes a working directory to the previous one
 The twelvth script lists all files including the parent working directory
 The thirteenth script prints the type of file created
+The fourteenth script creates a symbolic link that points to a file.
