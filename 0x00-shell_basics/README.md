@@ -9,3 +9,4 @@ The eighth script moves the file betty from one directory to another
 The nighth script deletes the file betty
 The tenth script deletes a directory
 The eleventh script changes a working directory to the previous one
+The twelvth script lists all files including the parent working directory
