@@ -9,3 +9,4 @@ The 6-multilple_permissions script gives multiple executions meaning that only t
 The 7-everybody script gives execution permission to both the owner, the group owner and other users.
 The 8-James_bond script gives all the permissions to only all other users in the world.
 The 9-John_Doe script is readable, writable, and executable to the user
+The 10-mirror_permissions sets the mode of two files to be the same
