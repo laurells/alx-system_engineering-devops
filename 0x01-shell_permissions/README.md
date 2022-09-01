@@ -11,3 +11,4 @@ The 8-James_bond script gives all the permissions to only all other users in the
 The 9-John_Doe script is readable, writable, and executable to the user
 The 10-mirror_permissions sets the mode of two files to be the same
 The 11-directories_permissions script executes permission to all subdirectories without changing regular files
+The 12-directory_permissions script creates a directory with a specific permission.
