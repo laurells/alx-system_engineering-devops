@@ -7,3 +7,4 @@ The 4-empty script creates an empty file whenever it is executed.
 The 5-execute script adds a permission to a file for any user to executeor open the file.
 The 6-multilple_permissions script gives multiple executions meaning that only the owner of the file and group owner can execute while other user are given permission to read the file.
 The 7-everybody script gives execution permission to both the owner, the group owner and other users.
+The 8-James_bond script gives all the permissions to only all other users in the world.
