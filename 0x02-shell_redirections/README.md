@@ -21,3 +21,5 @@
 9-duplicate_last_line file script duplicates the last line of the file (iacta))
 
 10-no_more_js file script deletes all regular files with a particular extension such as (.js) that are present in the current directory and all its subfolders.
+
+11-directories file script counts the number of directories and subdirectories in the current directory. All hidden directories would be counted only current and parent directories would not be counted.
