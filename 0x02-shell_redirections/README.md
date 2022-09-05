@@ -12,4 +12,6 @@
 
 6-third_line file script displays the first 3 lines of the file (iacta)
 
-7-file script creates a file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) with the text 'Best School' in it.
+7-file script creates a file (\*\\\'"Best School"\'\\\*$\?\*\*\*\*\*:) with the text 'Best School' in it.
+
+8-cwd_state file script writes into the file ls_cwd_content the command ls-la. It over writes any text in the file ls_cwd_content if it existed before now. 

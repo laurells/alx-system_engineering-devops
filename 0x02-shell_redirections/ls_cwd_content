@@ -1,0 +1,15 @@
+total 34
+drwxr-xr-x 1 laure 197609     0 Sep  5 15:14 .
+drwxr-xr-x 1 laure 197609     0 Sep  5 13:52 ..
+-rw-r--r-- 1 laure 197609 12288 Sep  5 13:59 .0-hello_world.swp
+-rwxr-xr-x 1 laure 197609    32 Sep  5 14:02 0-hello_world
+-rwxr-xr-x 1 laure 197609    28 Sep  5 14:14 1-confused_smiley
+-rwxr-xr-x 1 laure 197609    28 Sep  5 14:18 2-hellofile
+-rwxr-xr-x 1 laure 197609    39 Sep  5 14:22 3-twofiles
+-rwxr-xr-x 1 laure 197609    29 Sep  5 14:32 4-lastlines
+-rwxr-xr-x 1 laure 197609    29 Sep  5 14:36 5-firstlines
+-rwxr-xr-x 1 laure 197609    36 Sep  5 14:48 6-third_line
+-rwxr-xr-x 1 laure 197609    72 Sep  5 15:03 7-file
+-rwxr-xr-x 1 laure 197609    36 Sep  5 15:14 8-cwd_state
+-rw-r--r-- 1 laure 197609   666 Sep  5 14:54 README.md
+-rw-r--r-- 1 laure 197609     0 Sep  5 15:15 ls_cwd_content
