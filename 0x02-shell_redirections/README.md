@@ -14,4 +14,8 @@
 
 7-file script creates a file (\*\\\'"Best School"\'\\\*$\?\*\*\*\*\*:) with the text 'Best School' in it.
 
-8-cwd_state file script writes into the file ls_cwd_content the command ls-la. It over writes any text in the file ls_cwd_content if it existed before now. 
+8-cwd_state file script writes into the file ls_cwd_content the command ls-la. It over writes any text in the file ls_cwd_content if it existed before now.
+
+9-duplicate_last_line file script duplicates the last line of the file (iacta
+
+9-duplicate_last_line file script duplicates the last line of the file (iacta))
