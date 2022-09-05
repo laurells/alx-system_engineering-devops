@@ -9,3 +9,6 @@
 4-lastlines file script displays the last 10 line of the file (/etc/passwd)
 
 5-firstlines file script displays the first 10 lines of the file (/etc/passwd)
+
+6-third_line file script displays the first 3 lines of the file (iacta)
+
