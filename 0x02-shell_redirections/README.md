@@ -39,3 +39,5 @@
 18-letteronly fil script diplays all lines of the file /etc/ssh/sshd_config starting with a letter.
 
 19-AZ file script replaces chracter A and c to Z and e
+
+20-hiago file script removes all leters c and C from input
