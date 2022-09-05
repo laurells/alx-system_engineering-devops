@@ -12,3 +12,4 @@
 
 6-third_line file script displays the first 3 lines of the file (iacta)
 
+7-file script creates a file \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) with the text 'Best School' in it.
