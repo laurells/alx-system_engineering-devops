@@ -41,3 +41,5 @@
 19-AZ file script replaces chracter A and c to Z and e
 
 20-hiago file script removes all leters c and C from input
+
+21-reverse file script reverses input.
