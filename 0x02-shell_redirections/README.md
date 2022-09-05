@@ -19,3 +19,5 @@
 9-duplicate_last_line file script duplicates the last line of the file (iacta
 
 9-duplicate_last_line file script duplicates the last line of the file (iacta))
+
+10-no_more_js file script deletes all regular files with a particular extension such as (.js) that are present in the current directory and all its subfolders.
