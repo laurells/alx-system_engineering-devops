@@ -25,3 +25,5 @@
 11-directories file script counts the number of directories and subdirectories in the current directory. All hidden directories would be counted only current and parent directories would not be counted.
 
 12-newest_files file script displays the 10 newest files in the current directory.
+
+13-unique file script takes a list of words as input and prints only words that appear exactly once.
