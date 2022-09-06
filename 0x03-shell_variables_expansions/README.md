@@ -13,5 +13,7 @@ This project contains tasks on Expansions, Shell Arithmetic, Variables, Shell in
 
 4-global_variables file script lists environment variables.
 
+5-local_variables file script lists all local variables and environment variables and functions.
+
 
 
