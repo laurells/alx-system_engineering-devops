@@ -9,7 +9,9 @@ This project contains tasks on Expansions, Shell Arithmetic, Variables, Shell in
 
 2-path file script adds the directory /action but it would be the last directory on the file path.
 
-3-path file script counts the number of directories found in a directory (PATH) 
+3-path file script counts the number of directories found in a directory (PATH)
+
+4-global_variables file script lists environment variables.
 
 
 
