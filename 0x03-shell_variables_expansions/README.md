@@ -15,5 +15,8 @@ This project contains tasks on Expansions, Shell Arithmetic, Variables, Shell in
 
 5-local_variables file script lists all local variables and environment variables and functions.
 
+6-create_local_variable file script creates a local variable with name BEST and value 'School'
+
+7-create_global_variable file script createsa global variable with name BEST and value 'School'
 
 
