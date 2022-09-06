@@ -1,0 +1,2 @@
+#!/bin/bash
+export POWER=12 | export DIVIDE=6 | echo $((POWER/DIVIDE))

@@ -19,4 +19,14 @@ This project contains tasks on Expansions, Shell Arithmetic, Variables, Shell in
 
 7-create_global_variable file script createsa global variable with name BEST and value 'School'
 
+8-true_knowledge file script prints the result of the number 1209 assigned to the variable TRUEKNOWLEDGE with an addition of 128 to that number.
 
+9-divide_and_rule file script prints the result of the environmental variables POWER and DIVIDE.
+
+10-love_exponent_breath file script displays the result of the variable BREATH to the power of LOVE.
+
+11-binary_to_decimal file script converts the number base 2 to base 10.
+
+12-combinations file script prints all possible combinations of two letters except oo.
+
+13-print_float file script prints a number with two decimals.
